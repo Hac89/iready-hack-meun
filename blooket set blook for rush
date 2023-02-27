@@ -21,7 +21,7 @@
 
                 alert('Blooks set!');
             };
- javascript:})();
+ })();
 
 
 function footer() {
